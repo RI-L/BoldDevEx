@@ -1,0 +1,4 @@
+By Daniel Mauric
+https://github.com/MauricDaniel/BoldDevEx
+
+Zanh Nguyen; “I remember that I successfully used BoldDevEx in DevEx version 14.1.3”
